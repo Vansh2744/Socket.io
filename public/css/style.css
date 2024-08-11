@@ -1,0 +1,9 @@
+.hide {
+  display: none;
+}
+ul {
+  list-style-type: none;
+}
+ul p {
+  color: blue;
+}
